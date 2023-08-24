@@ -1,0 +1,99 @@
+#my-image{
+    object-position: center top;
+    border: solid blue 5px;
+    width: 200px;
+    height: 300px;
+}
+h3,h1{
+    color:orange;
+    text-decoration: orange wavy underline;
+
+}
+.fuck{
+    color: rgb(58, 10, 233);
+}
+.nono{
+    color: orangered;
+}
+ol{
+    color: brown;
+}
+#house{
+    color: red; 
+}
+#my-list{
+    color: rgb(208, 253, 8);
+}
+ul{
+    color: chocolate;
+}
+h4{
+    color: maroon;
+}
+label{
+    color:rgb(219, 206, 27);
+}
+button{
+    border:2px solid rgb(4, 235, 252);
+    margin: 3px;
+}
+h2{
+    font-family: serif;
+    font-size: xx-large;
+    color: mediumspringgreen;
+}
+p{
+    color: aqua;
+    font-family: cursive;
+}
+#reaction{
+    border: 3px gold solid;
+}
+body{
+    background-color: rgb(1, 1, 56);
+}
+a{
+    text-decoration: none;
+    color: aqua;
+}
+
+.header{
+    height: 500px;
+    background-image: url(photo/FB_IMG_16422620437860095.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: gray;
+    background-blend-mode: multiply;
+    box-shadow: 10px 10px 10px black;
+}
+.oshlil{
+    background-color: goldenrod;
+    box-shadow: 10px 10px 10px black;
+    color:rgb(1, 1, 56);
+}
+
+input[type="text"]{
+    margin-bottom: 5px;
+    margin-top: 5px;
+    border: 2px solid yellow;
+    border: 2px solid orangered;
+}
+input[type="phone number"]{
+    margin-bottom: 5px;
+    margin-top: 5px;
+    border: 2px solid orangered;
+    border: 2px solid orangered;
+}
+input[type="profession"]{
+    margin-bottom: 5px;
+    margin-top: 5px;
+    border: 2px solid orangered;
+    border: 2px solid orangered;
+}
+input[type="password"]{
+    margin-bottom: 5px;
+    margin-top: 5px;
+    border: 3px solid orangered;
+    border: 2px solid orangered;
+}
