@@ -1,0 +1,22 @@
+h1{
+    color: orangered;
+    font-style:inherit; 
+}
+h2{
+    color: darkgreen;
+}
+h3{
+    text-align: center;
+    color: blue;
+    text-shadow: 5px 5px 5px;
+}
+
+p{
+    margin: 5px;
+    padding: 5px;
+    background-color: darkgoldenrod;
+    box-shadow: 15px 10px 15px;
+    border-radius: 5px;
+    line-height: 1.5;
+    
+}
